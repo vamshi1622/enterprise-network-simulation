@@ -2,6 +2,7 @@
 
 This project simulates a multi-site enterprise network using GNS3. It includes VLAN segmentation, routing protocols, firewall zones, VPN connectivity, and infrastructure automation components — modeled on real-world enterprise architecture.
 
+---
 
 ## 🌐 Topology Overview
 
